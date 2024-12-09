@@ -1,6 +1,6 @@
 <div align="center">
 
-# VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads
+# VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset
 
 [**Orest Kupyn**](https://github.com/KupynOrest)<sup>13</sup> · [**Eugene Khvedchenia**](https://github.com/BloodAxe)<sup>2</sup> · [**Christian Rupprecht**](https://chrirupp.github.io/)<sup>1</sup> ·
 
