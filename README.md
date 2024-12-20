@@ -268,7 +268,7 @@ If you find VGGHeads useful for your research and applications, please cite us u
 
 ```bibtex
 @article{vggheads,
-      title={VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads},
+      title={VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset},
       author={Orest Kupyn and Eugene Khvedchenia and Christian Rupprecht},
       year={2024},
       eprint={2407.18245},
