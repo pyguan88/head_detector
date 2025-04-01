@@ -96,8 +96,8 @@ class FlameParams:
             [
                 self.shape,
                 self.expression,
-                self.rotation,
                 self.jaw,
+                self.rotation,
                 self.eyeballs,
                 self.neck,
                 self.translation,
