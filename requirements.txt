@@ -4,6 +4,6 @@ Pillow
 numpy==1.23.5
 smplx==0.1.26
 chumpy==0.70
-scipy==1.10.0
+scipy
 einops
 Cython==0.29.32
