@@ -1,9 +1,9 @@
 opencv-contrib-python-headless
 huggingface_hub
 Pillow
-numpy==1.23.5
-smplx==0.1.26
-chumpy==0.70
+numpy
+smplx
+chumpy
 scipy
 einops
 Cython==0.29.32
