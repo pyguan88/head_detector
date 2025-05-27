@@ -1,9 +1,9 @@
 opencv-contrib-python-headless==4.6.0.66
-huggingface_hub
-Pillow
-numpy
-smplx
-chumpy
-scipy
-einops
+huggingface_hub==0.20.3
+Pillow==10.2.0
+numpy==1.23.5
+smplx==0.1.26
+chumpy==0.70
+scipy==1.10.0
+einops==0.8.0
 Cython==0.29.32
