@@ -1,6 +1,6 @@
-opencv-contrib-python-headless==4.6.0.66
+opencv-contrib-python-headless
 numpy==1.23.5
-smplx==0.1.26
-chumpy==0.70
-einops==0.8.0
+smplx
+chumpy
+einops
 Cython==0.29.32
